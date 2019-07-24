@@ -6,7 +6,7 @@ int main()
    printf("Enter two numbers:");
    
    scanf("%d %d", &a, &b);
- 
+ // this is new work
    
    printf("Prime numbers from %d and %d are:\n",a, b);
    for(i=a+1; i<b; ++i)
